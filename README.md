@@ -1,0 +1,1 @@
+# Geography Handbook store screenshots
