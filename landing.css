@@ -167,3 +167,5 @@ html:lang(ja) .closing h2,html:lang(zh) .closing h2,html:lang(ko) .closing h2{fo
 .floating-note>div{min-width:0;overflow-wrap:anywhere}
 .faq-list summary,.screen-caption{overflow-wrap:anywhere}
 .mobile-menu nav a{overflow-wrap:anywhere}
+
+.country-resources-copy{margin-top:38px;padding:24px;border:1px solid var(--line);border-radius:18px;background:var(--paper)}.country-resources-copy h3{font-size:1.05rem;line-height:1.5;margin-bottom:10px}.country-resources-copy p{font-size:.84rem;color:var(--muted);line-height:1.85}.country-resources-copy .resource-limits{margin-top:8px;font-size:.76rem}
